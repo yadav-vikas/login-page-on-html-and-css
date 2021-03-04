@@ -18,3 +18,10 @@ npm install remark-comment-config
 ```sh
 pipe install nueral_netwroks
 ```
+
+
+```markdown
+<!--remark bullet="+"-->
+
+- List item (this is a stringify setting)
+```
